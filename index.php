@@ -29,7 +29,7 @@
             <input type="text" name="alamat">
         </div class="isi-data">
         <div class="isi-data">
-            <label for="">Prgram Studi</label>
+            <label for="">Program Studi</label>
             <input type="text" name="prodi">
         </div class="isi-data">
         <div class="simpan-data">
